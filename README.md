@@ -1,0 +1,3 @@
+EduVision is a comprehensive school/college management software designed to streamline student, teacher, and subject management. It includes features like attendance tracking, marks evaluation, and role-based dashboards for admins and teachers. The platform enables efficient data handling, user management, and interactive visualizations, providing a complete solution for educational institutions.
+it provides feature like adding class,teacher,student,subject and providing marks and attendance with charts and other visuals
+its also provide functionality like providing notice and adding complains 
